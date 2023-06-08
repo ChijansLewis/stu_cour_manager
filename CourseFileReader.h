@@ -48,6 +48,8 @@ public:
                 weekday = Weekday::SATURDAY;
             else if (weekdayStr == "SUNDAY")
                 weekday = Weekday::SUNDAY;
+            
+            studentLimit = 100;
 
             manager.addCourse(courseCode, name, teacher, studentLimit, weekday, lecture);
         }

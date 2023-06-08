@@ -25,10 +25,7 @@ public:
     Course(std::string name, std::string teacher, Weekday weekday, int lecture)
         : name(name), teacher(teacher), weekday(weekday), lecture(lecture)
     {
-        if (lecture < 0 || lecture > 11)
-        {
-            throw std::invalid_argument("Invalid lecture hour");
-        }
+        
     }
 
     std::string getName() const { return name; }

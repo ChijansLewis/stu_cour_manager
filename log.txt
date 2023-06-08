@@ -1,48 +1,22 @@
-Fri May 26 18:43:28 2023
+Tue Jun 06 21:03:38 2023
 : Admin registration successful for username: admin
-Fri May 26 18:43:34 2023
+Tue Jun 06 21:03:48 2023
 : Admin login successful: admin
-Fri May 26 18:43:46 2023
-: Admin h added a new teacher h.
-Fri May 26 18:44:14 2023
-: Admin tom added a new student tom with ID 001.
-Fri May 26 18:44:35 2023
-: Admin admin added a new course am taught by h.
-Fri May 26 18:44:52 2023
-: Admin tom enrolled student tom in the course 001.
-Fri May 26 18:45:20 2023
-: Admin tom dropped student tom from the course am.
-Fri May 26 18:45:36 2023
-: Admin tom dropped student tom from the course 001.
-Fri May 26 18:45:41 2023
-: Admin admin viewed all courses.
-Fri May 26 18:47:33 2023
-: Admin admin logged out.
-Fri May 26 18:47:38 2023
-: Teacher login attempt failed for username: h
-Fri May 26 18:49:51 2023
-: Teacher registration successful for username: h
-Fri May 26 18:50:02 2023
-: Teacher login successful: h
-Fri May 26 18:50:10 2023
-: Teacher h viewed his/her teaching courses.
-Fri May 26 18:50:23 2023
-: Teacher h logged out.
-Fri May 26 18:50:25 2023
-: Exit selected
-Thu Jun 01 18:29:59 2023
-: Admin registration successful for username: admin
-Thu Jun 01 18:30:11 2023
-: Admin login successful: admin
-Thu Jun 01 18:30:13 2023
-: Admin admin viewed all courses.
-Thu Jun 01 18:33:17 2023
-: Admin registration successful for username: admin
-Thu Jun 01 18:33:22 2023
-: Admin login successful: admin
-Thu Jun 01 18:33:25 2023
-: Admin admin viewed all courses.
-Thu Jun 01 18:33:48 2023
-: Admin admin logged out.
-Thu Jun 01 18:33:50 2023
+Tue Jun 06 21:05:53 2023
+: Admin registration successful for username: adm
+Tue Jun 06 21:05:57 2023
+: Admin login successful: adm
+Tue Jun 06 21:06:08 2023
+: Admin tom added a new student tom with ID 1.
+Tue Jun 06 21:06:22 2023
+: Admin tom enrolled student tom in the course CS001.
+Tue Jun 06 21:06:31 2023
+: Admin adm logged out.
+Tue Jun 06 21:06:35 2023
+: Student login successful: tom
+Tue Jun 06 21:06:41 2023
+: Student tom viewed his/her enrolled courses.
+Tue Jun 06 21:06:53 2023
+: Student tom logged out.
+Tue Jun 06 21:06:55 2023
 : Exit selected
